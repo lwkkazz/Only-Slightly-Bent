@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Project_011\Assets\Scripts\GetMe.cs">
+    <Files>
+      <File FileName="..\Project_011\Assets\Scripts\Mover.cs" Line="28" Column="3" />
+      <File FileName="..\Project_011\Assets\Scripts\GetMe.cs" Line="8" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
